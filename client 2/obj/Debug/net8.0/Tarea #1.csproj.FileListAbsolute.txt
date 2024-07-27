@@ -1,0 +1,42 @@
+C:\Users\santi\OneDrive\Desktop\2S-2024\Datos y Algoritmos I\Tarea #1\bin\Debug\net8.0\Tarea #1.exe
+C:\Users\santi\OneDrive\Desktop\2S-2024\Datos y Algoritmos I\Tarea #1\bin\Debug\net8.0\Tarea #1.deps.json
+C:\Users\santi\OneDrive\Desktop\2S-2024\Datos y Algoritmos I\Tarea #1\bin\Debug\net8.0\Tarea #1.runtimeconfig.json
+C:\Users\santi\OneDrive\Desktop\2S-2024\Datos y Algoritmos I\Tarea #1\bin\Debug\net8.0\Tarea #1.dll
+C:\Users\santi\OneDrive\Desktop\2S-2024\Datos y Algoritmos I\Tarea #1\bin\Debug\net8.0\Tarea #1.pdb
+C:\Users\santi\OneDrive\Desktop\2S-2024\Datos y Algoritmos I\Tarea #1\obj\Debug\net8.0\Tarea #1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\OneDrive\Desktop\2S-2024\Datos y Algoritmos I\Tarea #1\obj\Debug\net8.0\Tarea #1.AssemblyInfoInputs.cache
+C:\Users\santi\OneDrive\Desktop\2S-2024\Datos y Algoritmos I\Tarea #1\obj\Debug\net8.0\Tarea #1.AssemblyInfo.cs
+C:\Users\santi\OneDrive\Desktop\2S-2024\Datos y Algoritmos I\Tarea #1\obj\Debug\net8.0\Tarea #1.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Desktop\2S-2024\Datos y Algoritmos I\Tarea #1\obj\Debug\net8.0\Tarea #1.dll
+C:\Users\santi\OneDrive\Desktop\2S-2024\Datos y Algoritmos I\Tarea #1\obj\Debug\net8.0\refint\Tarea #1.dll
+C:\Users\santi\OneDrive\Desktop\2S-2024\Datos y Algoritmos I\Tarea #1\obj\Debug\net8.0\Tarea #1.pdb
+C:\Users\santi\OneDrive\Desktop\2S-2024\Datos y Algoritmos I\Tarea #1\obj\Debug\net8.0\Tarea #1.genruntimeconfig.cache
+C:\Users\santi\OneDrive\Desktop\2S-2024\Datos y Algoritmos I\Tarea #1\obj\Debug\net8.0\ref\Tarea #1.dll
+C:\Users\santi\tec\2S-2024\Datos y Algoritmos I\Tarea #1\client\bin\Debug\net8.0\Tarea #1.exe
+C:\Users\santi\tec\2S-2024\Datos y Algoritmos I\Tarea #1\client\bin\Debug\net8.0\Tarea #1.deps.json
+C:\Users\santi\tec\2S-2024\Datos y Algoritmos I\Tarea #1\client\bin\Debug\net8.0\Tarea #1.runtimeconfig.json
+C:\Users\santi\tec\2S-2024\Datos y Algoritmos I\Tarea #1\client\bin\Debug\net8.0\Tarea #1.dll
+C:\Users\santi\tec\2S-2024\Datos y Algoritmos I\Tarea #1\client\bin\Debug\net8.0\Tarea #1.pdb
+C:\Users\santi\tec\2S-2024\Datos y Algoritmos I\Tarea #1\client\obj\Debug\net8.0\Tarea #1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\tec\2S-2024\Datos y Algoritmos I\Tarea #1\client\obj\Debug\net8.0\Tarea #1.AssemblyInfoInputs.cache
+C:\Users\santi\tec\2S-2024\Datos y Algoritmos I\Tarea #1\client\obj\Debug\net8.0\Tarea #1.AssemblyInfo.cs
+C:\Users\santi\tec\2S-2024\Datos y Algoritmos I\Tarea #1\client\obj\Debug\net8.0\Tarea #1.csproj.CoreCompileInputs.cache
+C:\Users\santi\tec\2S-2024\Datos y Algoritmos I\Tarea #1\client\obj\Debug\net8.0\Tarea #1.dll
+C:\Users\santi\tec\2S-2024\Datos y Algoritmos I\Tarea #1\client\obj\Debug\net8.0\refint\Tarea #1.dll
+C:\Users\santi\tec\2S-2024\Datos y Algoritmos I\Tarea #1\client\obj\Debug\net8.0\Tarea #1.pdb
+C:\Users\santi\tec\2S-2024\Datos y Algoritmos I\Tarea #1\client\obj\Debug\net8.0\Tarea #1.genruntimeconfig.cache
+C:\Users\santi\tec\2S-2024\Datos y Algoritmos I\Tarea #1\client\obj\Debug\net8.0\ref\Tarea #1.dll
+C:\Users\santi\tec\2S-2024\Datos y Algoritmos I\Tarea #1\client 2\bin\Debug\net8.0\Tarea #1.exe
+C:\Users\santi\tec\2S-2024\Datos y Algoritmos I\Tarea #1\client 2\bin\Debug\net8.0\Tarea #1.deps.json
+C:\Users\santi\tec\2S-2024\Datos y Algoritmos I\Tarea #1\client 2\bin\Debug\net8.0\Tarea #1.runtimeconfig.json
+C:\Users\santi\tec\2S-2024\Datos y Algoritmos I\Tarea #1\client 2\bin\Debug\net8.0\Tarea #1.dll
+C:\Users\santi\tec\2S-2024\Datos y Algoritmos I\Tarea #1\client 2\bin\Debug\net8.0\Tarea #1.pdb
+C:\Users\santi\tec\2S-2024\Datos y Algoritmos I\Tarea #1\client 2\obj\Debug\net8.0\Tarea #1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\tec\2S-2024\Datos y Algoritmos I\Tarea #1\client 2\obj\Debug\net8.0\Tarea #1.AssemblyInfoInputs.cache
+C:\Users\santi\tec\2S-2024\Datos y Algoritmos I\Tarea #1\client 2\obj\Debug\net8.0\Tarea #1.AssemblyInfo.cs
+C:\Users\santi\tec\2S-2024\Datos y Algoritmos I\Tarea #1\client 2\obj\Debug\net8.0\Tarea #1.csproj.CoreCompileInputs.cache
+C:\Users\santi\tec\2S-2024\Datos y Algoritmos I\Tarea #1\client 2\obj\Debug\net8.0\Tarea #1.dll
+C:\Users\santi\tec\2S-2024\Datos y Algoritmos I\Tarea #1\client 2\obj\Debug\net8.0\refint\Tarea #1.dll
+C:\Users\santi\tec\2S-2024\Datos y Algoritmos I\Tarea #1\client 2\obj\Debug\net8.0\Tarea #1.pdb
+C:\Users\santi\tec\2S-2024\Datos y Algoritmos I\Tarea #1\client 2\obj\Debug\net8.0\Tarea #1.genruntimeconfig.cache
+C:\Users\santi\tec\2S-2024\Datos y Algoritmos I\Tarea #1\client 2\obj\Debug\net8.0\ref\Tarea #1.dll
